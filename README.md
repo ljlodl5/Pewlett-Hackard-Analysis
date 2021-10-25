@@ -39,7 +39,7 @@ Therefore, the gap may contribute to burnout of the existing labor force or requ
 
 In conclusion, there are ~90k jobs from a variety of positions that potentially will become available soon via the silver tsunami. This is at great risk to company knowledge and skillset if mentorship is not attained.
 There are more than enough qualified individuals that are retirement-ready to mentor those that may stay in the company. However, the amount of resources requested for mentorship (concentrated to birthyear 1965) may not be enough recipients of this knowledge to keep 
-the business from losing valuable expertise. Two additional queries to show this are depicted below 
+the business from losing valuable expertise. Two additional queries to show this are depicted below: 
 
 **Exhibits 1 and 2**
 
