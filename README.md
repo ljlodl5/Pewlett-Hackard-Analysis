@@ -24,7 +24,7 @@ Exhibit A
 
 * **Who is eligible for mentorship to support those that may be leaving the company soon?**
 The company is examining who is eligible for mentorship in order to mitigate the impact of the silver tsunami. Currently, the list requested (Exhibit B) includes a subset of the existing company workforce (birth year 1965).
-The list requested consists of ~1500 employees individuals as mentorship eligible. The company may want to consider expanding the mentorship program in order to reduce the burden of existing employees to cover the large amount of people leaving the workforce.
+The list requested consists of ~1500 individuals as mentorship eligible based on their birthdate. The company may want to consider expanding the mentorship program in order to reduce the burden of existing employees to cover the large amount of people leaving the workforce.
 
 ![Exhibit B](https://github.com/ljlodl5/Pewlett-Hackard-Analysis/blob/main/Queries/Data/Mentor%20Eligible%201965.png)
 
