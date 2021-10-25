@@ -34,7 +34,7 @@ INTO unique_titles
 FROM retirement_titles
 ORDER BY emp_no, to_date DESC;
 
--- Purpose: Identify the 'silver tzunami (1952--1955) impact to specific roles(count per role) 
+-- Purpose: Identify the 'silver tsunami (1952--1955) impact to specific roles(count per role) 
 --Utilizing the unique_titles table create a new table retiring_titles that identify the total count of people 
 Select Count(emp_no) as totaltitle,title
 INTO retiring_titles
@@ -43,7 +43,7 @@ GROUP BY title
 ORDER BY totaltitle DESC;
 
 
--- Purpose: Identify current employees a decade younger (1965) where proactive mentoring may benefit and lessen the impact of the silver tzunami 
+-- Purpose: Identify current employees a decade younger (1965) where proactive mentoring may benefit and lessen the impact of the silver tsunami 
 --Retrieve the emp_no, first_name, last_name, and birth_date columns from the Employees table.
 SELECT emp_no, first_name, last_name, birth_date
 FROM employees
@@ -51,6 +51,7 @@ FROM employees
 SELECT from_date, to_date 
 FROM dept_employee
 
+--Purpose: Determine the total count of mentoring_eligibility group from 1965 to understand if it sufficiently addresses the silver tzunami
 --Retrieve the title column from the Titles table.
 SELECT title
 FROM titles
@@ -73,16 +74,15 @@ ON employees.emp_no = dept_employee.emp_no
 INNER JOIN titles
 ON employees.emp_no = titles.emp_no
 --Filter the data on the to_date column to all the current employees, then filter the data on the birth_date columns to get all the employees whose birth dates are between January 1, 1965 and December 31, 1965.
-WHERE dept_employee.to_date = '9999-01-01'AND (birth_date BETWEEN '1961-01-01' AND '1965-12-31')
+WHERE dept_employee.to_date = '9999-01-01'AND (birth_date BETWEEN '1965-01-01' AND '1965-12-31')
 --Order the table by the employee number.
 ORDER BY employees.emp_no
 --Export the Mentorship Eligibility table as mentorship_eligibilty.csv and save it to your Data folder in the Pewlett-Hackard-Analysis folder5
 
-Purpose: Determine the total count of mentoring_eligibility group from 1965 to understand if it sufficiently addresses the silver tzunami
 
+--Purpose: Determine total pool of mentorship eligible
 SELECT COUNT (emp_no) as totalmentors
 FROM mentorship_eligibility 
-
 
 
 --Purpose run a expanded pool of replacement potentials to consider for mentorship
