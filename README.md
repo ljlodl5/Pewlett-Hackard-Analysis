@@ -12,7 +12,9 @@ offset those that may be retiring in the next few years?
 
 * **What is the Impact of the current employees ready to retire? (Birth years 1952-1955)**
 Within this company there are currently >90k employees close to retirement. These employees hold roles that are varied in nature and some are highly skilled. 
-The mass exodus of baby boomer retirees is an opportunity for hiring new talent and/or investing in existing talent. See Exhibit 1 (Summary Section)
+The mass exodus of baby boomer retirees is an opportunity for hiring new talent and/or investing in existing talent. See link to file:
+#### ![Exhibit 0](https://raw.githubusercontent.com/ljlodl5/Pewlett-Hackard-Analysis/main/Queries/Data/unique_titles.csv)
+
   
 
 * **What Company Roles are Impacted?**
