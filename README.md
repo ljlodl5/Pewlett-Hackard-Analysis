@@ -53,8 +53,9 @@ While it may not be necessary to mentor 1-to-1, those that are staying vs. those
 "The Great Resignation" -an additional work exodus resulting from the combined demands of the pandemic and corporate culture- is also putting a large strain on corporations that were relying on late baby boomers, Generations X and Y to remain. 
 It may be wise to expand low-cost mentorship to ease the burden of remaining employees that are expected to drive the skills the company needs to succeed. 
 
-#### ![Exhibit 1](https://github.com/ljlodl5/Pewlett-Hackard-Analysis/blob/main/Queries/Data/Total%20Mentorship%20Eligibilty%20Table%20with%20roles%20and%20names%20(1960-1965)%20.png)
+#### ![Exhibit 2](https://github.com/ljlodl5/Pewlett-Hackard-Analysis/blob/main/Queries/Data/Total%20Mentorship%20Eligibilty%20Table%20with%20roles%20and%20names%20(1960-1965)%20.png)
 
+Queries(re: Employee Database challenge.sql) and data (re: multiple csv's) used as support for above are located in the following GitHub link:
 
 #### Pewlett-Hackard_Analysis Challenge located in GitHub
 (https://github.com/ljlodl5/Pewlett-Hackard-Analysis)
